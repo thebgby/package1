@@ -1,0 +1,3 @@
+source_path=C:\Users\haske\Desktop\work\files\output
+instance_name=ROMAN
+database_name=work
